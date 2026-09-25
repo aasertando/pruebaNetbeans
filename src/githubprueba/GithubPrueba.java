@@ -17,6 +17,7 @@ public class GithubPrueba {
         // TODO code application logic here
         
         int num1 = 4;
+        //color = verde;
         
         //ola siksjhsdjhfj
         
